@@ -8,8 +8,8 @@ public class ArrayListExample {
 
         ArrayList<Integer> list = new ArrayList<>(10);
 
-//        list.add(12);
-//        System.out.println(list);
+        list.add(12);
+        System.out.println(list);
 
         Scanner in = new Scanner(System.in);
 
